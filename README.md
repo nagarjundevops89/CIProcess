@@ -1,1 +1,2 @@
 # CIProcess
+Maven project
